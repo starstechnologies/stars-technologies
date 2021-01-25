@@ -1,2 +1,2 @@
-# www
+# Stars Technologies
 Public website
